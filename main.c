@@ -81,7 +81,7 @@ int main(){
     ShowTable(table,vertexNumber);
     PrintPath(table,i,2);
     
-    printf("hello linux c\n");
+    printf("hello linux c\n ");
 
     return 0;
 }
